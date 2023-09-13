@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "u-friend.token.secret",
+    "type": "java.lang.String",
+    "description": "Application secret key"
+  },
+  {
+    "name": "u-friend.cors.allowed",
+    "type": "java.lang.String",
+    "description": "Application allowed cors origins"
+  }
+]}
